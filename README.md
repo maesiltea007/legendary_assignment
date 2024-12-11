@@ -40,8 +40,8 @@ python knn_iris_classifier.py
 ```
 2.enter K
 
-#Example
-##condole:
+# Example
+## condole:
 ```bash
 Enter the number of k please
 model accuracy:0.96
@@ -51,8 +51,8 @@ Predicted label:legend
 ```
 
 # Notes
--ensure that the input is for your prediction model knn classifier
--modify the dataset loading scriptf by necessary
+- ensure that the input is for your prediction model knn classifier
+- modify the dataset loading scriptf by necessary
 
 # License
 This project is licensed by the MIT License
