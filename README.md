@@ -57,5 +57,5 @@ Predicted label:legend
 # License
 This project is licensed by the MIT License
 
-#Author
+# Author
 Developed by JOEY
